@@ -22,10 +22,10 @@
   "license": "MIT",
   "dependencies": {
     "through": "~2.2.7",
-    "underscore": "1.6.1"
+    "underscore": "^1.6.0"
   },
   "peerDependencies": {
-    "underscore": "1.6.0"
+    "underscore": "^1.6.0"
   },
   "devDependencies": {
     "browserify": "~2.4.0"
